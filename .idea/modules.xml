@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting/evcloud-reporting.iml" filepath="$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting/evcloud-reporting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting-api/evcloud-reporting-api.iml" filepath="$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting-api/evcloud-reporting-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting-client/evcloud-reporting-client.iml" filepath="$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting-client/evcloud-reporting-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting-enums/evcloud-reporting-enums.iml" filepath="$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting-enums/evcloud-reporting-enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting-parent.iml" filepath="$PROJECT_DIR$/evcloud-reporting-parent/evcloud-reporting-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/feign.demo.iml" filepath="$PROJECT_DIR$/.idea/feign.demo.iml" />
+    </modules>
+  </component>
+</project>
